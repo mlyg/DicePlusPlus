@@ -4,7 +4,7 @@ Link to the arXiv preprint version of the paper: https://arxiv.org/abs/2111.0052
 
 ## Reproducing results from the paper
 To reproduce the results from the paper:
-1. Download Datasets
+1. Download datasets
 2. Clone the MIScnn repository (or use the Google Colab scripts provided in this repository)
 3. Set up file directories
 4. Run Google Colab scripts (or modify to run locally)
