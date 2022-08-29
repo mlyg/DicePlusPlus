@@ -35,7 +35,7 @@ To reproduce the results from the paper:
 **Link:** https://github.com/neheller/kits19
 
 ## Cloning the MIScnn repository
-The MIScnn pipeline is used in these experiments. The repository can be found at: https://github.com/frankkramer-lab/MIScnn. \
+The MIScnn pipeline is used in these experiments. The repository can be found at: https://github.com/frankkramer-lab/MIScnn. 
 
 In our experiments, we make small but significant modifications to the MIScnn code. Specifically we:
 1. replace Batch Normalisation with Instance Normalisation
